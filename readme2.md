@@ -1,2 +1,2 @@
-This is a readme file. Alteração da primeira linha feita pelo user 2.
+This is a readme file. Isto resultou de texto escrito pelos 2 utilizadores.
 asdasdasd
