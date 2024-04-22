@@ -1,3 +1,3 @@
 This is a readme file.
-nova linha - alterada pelo user 1
+nova linha - alterada pelo user e user 2
 terceira linha
